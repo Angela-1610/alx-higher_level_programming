@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+if __name__ == "__main__":
+    """task 2."""
 import sys
 args = len(sys.argv) - 1
 if args == 0:
